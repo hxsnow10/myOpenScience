@@ -4,7 +4,7 @@ myOpenScience
 IT and AI is changing our world.
 Science Community always changes first.
 
-part of myOpenScience
+myOpenScience
 1. redefine and redesign science concepts
 2. understand and design human-central research managment. A way to essential of research, scientist robot.
 3. redesign technology for community framework and personol research. 
